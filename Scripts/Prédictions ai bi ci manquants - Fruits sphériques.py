@@ -10,7 +10,7 @@
 # Mémoire de master | Année académique 2024–2025
 # Titre : Mise en place d'outils statistiques et de machine learning visant à la compréhension du séchage de fruits amazoniens
 # Version : 1.0.0 | Date : 2025-08-09
-
+ 
 # Script pour compléter les dimensions ai bi ci manquantes des fruits sphériques à partir de leur masse initiale et de la variable catégorielle Fruit_Code.
 # Ces préditions sont réalisées grâce aux 3 modèles XGBoost pour prédire ai, bi et ci.
 
